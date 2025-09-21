@@ -1,7 +1,5 @@
 # Galaxium Travels Evaluation Example
 
-**------UNDER CONSTRUCTION-------**
-
 This repository contains resources for the "galaxium_travels_evaluation_example" with the `watsonx Orchestrate Development Edition`.
 
 * Galaxium Travels Applications:
