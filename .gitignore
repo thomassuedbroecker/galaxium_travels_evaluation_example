@@ -212,3 +212,6 @@ __marimo__/
 .DS_Store
 /watsonx-orchestrate-adk/server.env
 /watsonx-orchestrate-adk/docker-compose.yml
+/watsonx-orchestrate-adk/evaluations
+/watsonx-orchestrate-adk/agents
+/watsonx-orchestrate-adk/tools

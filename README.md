@@ -26,6 +26,6 @@ This repository contains resources for the "galaxium_travels_evaluation_example"
     * [Galaxium Travels Infrastructure](https://github.com/thomassuedbroecker/galaxium-travels-infrastructure)
     * [Galaxium Travels Idea](https://github.com/Max-Jesch/galaxium-travels)
 
-## In this related [Blog Post: TBD](XXXX) and [YouTube video: TBD](XXXX) you will find the steps you can follow to run the example.
+## In this related [`Blog Post: Testing AI Agents with the watsonx Orchestrate Agent Developer Kit (ADK)- Evaluation Framework – A Hands-on Example`](https://suedbroecker.net/2025/09/21/testing-ai-agents-with-the-watsonx-orchestrate-agent-developer-kit-adk-evaluation-framework-a-hands-on-example/) and [YouTube video: TBD](XXXX) you will find the steps you can follow to run the example.
 
 
